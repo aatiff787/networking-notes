@@ -1,0 +1,33 @@
+# Networking Notes
+
+This repository documents my journey learning computer networking as part of my cybersecurity roadmap.
+
+## Topics Covered
+
+- [ ] Introduction to Networking
+- [ ] OSI Model
+- [ ] TCP/IP Model
+- [ ] IP Addressing
+- [ ] Subnetting
+- [ ] MAC Address
+- [ ] ARP
+- [ ] DNS
+- [ ] DHCP
+- [ ] HTTP & HTTPS
+- [ ] TCP vs UDP
+- [ ] Common Ports
+- [ ] Routing & Switching
+- [ ] Wireshark Labs
+
+## Practical Labs
+
+- Packet Capture
+- DNS Analysis
+- TCP Three-Way Handshake
+- HTTP Traffic Analysis
+- ICMP (Ping)
+- ARP Requests
+
+## Goal
+
+To build a strong networking foundation for cybersecurity through theory and hands-on practice.
